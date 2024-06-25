@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EnemyHead
+  - PlayerFeet
+  - Ground
+  - Block
+  - Deadzone
+  - PlayerHead
+  - PowerUo
+  - PowerUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Boundaries
+  - Items
+  - Ignore Enemies
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 636057171
+    locked: 0
+  - name: ForeGround
+    uniqueID: 605300551
+    locked: 0
+  - name: Blocks
+    uniqueID: 3451278087
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemies
+    uniqueID: 3958672253
+    locked: 0
+  - name: FrontGround
+    uniqueID: 3156252691
+    locked: 0
+  - name: Player
+    uniqueID: 1836090297
+    locked: 0
